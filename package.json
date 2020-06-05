@@ -1,0 +1,14 @@
+{
+  "name": "image-converter",
+  "version": "1.0.0",
+  "description": "Converts all BMP files in a directory to PNG format.",
+  "main": "convert.js",
+  "scripts": {
+    "test": "convert"
+  },
+  "author": "Adrian O'Sullivan",
+  "license": "ISC",
+  "devDependencies": {
+    "jimp": "^0.13.0"
+  }
+}
